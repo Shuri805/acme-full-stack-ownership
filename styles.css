@@ -27,8 +27,8 @@ h2 {
   text-transform: uppercase;
 }
 
-li {
-}
+/* li {
+} */
 
 li > * {
   margin: 1rem;
@@ -54,5 +54,5 @@ form > * {
   margin: 1rem;
 }
 
-section {
-}
+/* section {
+} */
